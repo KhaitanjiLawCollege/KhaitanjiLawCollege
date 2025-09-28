@@ -2,7 +2,7 @@
 <h3 align="center">Dedicated to Excellence in Legal Education</h3>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Law_symbol.svg/1024px-Law_symbol.svg.png" alt="Law" width="120"/>
+  <img src="logo.png" alt="Khaitan Ji Law College Logo" width="150"/>
 </p>
 
 ---

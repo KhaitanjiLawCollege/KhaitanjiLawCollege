@@ -14,15 +14,15 @@ We believe in a disciplined, student-friendly environment with supportive facult
 ---
 
 ### 📍 Contact Us  
-- 📫 Email: **khaitanjilawcollege@gmail.com**  
-- ☎️ Phone: [Add College Phone Number]  
-- 🌐 Website: [Add College Website URL]  
-- 📍 Location: [Add College Address]  
+- 📫 Email: **khaitanjilawcollege@gmail.com**, **khaitanjilawcollege@yahoo.in** 
+- ☎️ Phone: +91 9415084666  
+- 🌐 Website: [Khaitanji Law College](https://www.khaitanjilawcollege.in/)  
+- 📍 Location: Tedwa Chilaula, Khajuria Awasi, Sitapur, Uttar Pradesh 261001  
 
 ---
 
 ### 🌐 Connect With Us  
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/[college-linkedin]" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
